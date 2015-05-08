@@ -104,7 +104,7 @@ if __name__ == '__main__':
         params.pop(params.index('-v'))
 
     if len(params) is 0:
-        print('Please, pass a liste of folders to check as parameter')
+        print('Please, pass a list of folders to check as parameter')
         print('Example: %s /folder1 [/folder2 /folder3' % sys.argv[0])
         sys.exit(-1)
     else:
