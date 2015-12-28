@@ -23,6 +23,6 @@ clean EXIF metadata from your files.
 
 Example:
 
-./eximcleaner.py -v /www/images /www/images2
+./exifcleaner.py -v /www/images /www/images2
 
 
